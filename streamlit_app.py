@@ -9,12 +9,5 @@ with st.container():
  st.title("A Students from SNSU")
  st.write("I am passionate to learn from this amazing school")
 
-# ---- WHAT I DO ----
-with st.container():
-  st.write("---")
-  left_column, right_column = st.columns(2)
-  with left_column:
-    st.header("What I do")
-    st.write("##")
-    st.write(
+
      
