@@ -11,7 +11,7 @@ def load_lottieurl(url):
         return None
     return r.json()
 
-lottie_coding = load_lottieurl("https://app.lottiefiles.com/animation/252baf63-14fa-49dc-8186-30dc1c554800")
+lottie_coding = load_lottieurl("https://lottie.host/ef083fa6-a74d-4954-ba94-9c5c83842da3/5BwxkyIjam.json")
 
 # ---- HEADER SECTION ----
 with st.container():
