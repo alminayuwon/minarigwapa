@@ -10,7 +10,7 @@ with st.container():
  st.write("I am passionate about turning ideas into code!")
 
 # ---- PROJECTS ----
-ith st.container():
+with st.container():
     st.write("---")
     st.header("My Journey into Coding")
     st.write("##")
