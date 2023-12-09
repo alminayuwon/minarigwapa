@@ -15,10 +15,8 @@ with st.container():
     st.header("My Journey into Coding")
     st.write("##")
     image_column, text_column = st.columns((1, 2))
-    with image_column:
-        st.image(img_lottie_animation)
-    with text_column:
-        st.subheader("Integrate Lottie Animations Inside Your Streamlit App")
+    with image_column
+    with text_column
         st.write(
             """
            My journey into coding began when I was 18 years old and started studying Computer Engineering at SNSU. At first, I wasn't sure if I could understand it, and I felt a bit unsure about my abilities.
