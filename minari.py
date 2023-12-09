@@ -36,3 +36,6 @@ Now, I'm working on different projects that I'm proud of. Each project teaches m
 In conclusion, my coding journey is still ongoing. I'm not perfect, but I'm learning every day. Coding is like a puzzle, and it's okay not to have all the pieces at once. I'm excited to see where this journey takes me, and I'm grateful for the chance to learn and grow through coding.
             """
         )
+with right_column:
+  st_lottie(lottie_coding, height=300, key="coding")
+  
