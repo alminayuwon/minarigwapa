@@ -5,9 +5,9 @@ st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 
 # ---- HEADER SECTION ----
 with st.container():
- st.subheader("Hey,I'm Almina Adlawon, an 18-year-old")
+ st.subheader("Hey,I'm Almina Adlawon,\n an 18-year-old")
  st.title("Computer Engineering student at SNSU")
- st.write("Passionate about turning ideas into code!")
+ st.write("I am passionate about turning ideas into code!")
 
 
      
