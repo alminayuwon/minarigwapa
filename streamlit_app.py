@@ -3,6 +3,9 @@ import streamlit as st
 # Find more emojis here: https://www.webfx.com/tools/emoji-cheat-sheet/
 st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 
+
+lottie_coding = "https://app.lottiefiles.com/animation/252baf63-14fa-49dc-8186-30dc1c554800"
+
 # ---- HEADER SECTION ----
 with st.container():
  st.subheader("Hey,I'm Almina Adlawon,an 18-year-old")
